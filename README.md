@@ -1,2 +1,2 @@
 # responsive-nav
-Responsive Navigation
+Faces Responsive Navigation
